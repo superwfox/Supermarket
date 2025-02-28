@@ -1,0 +1,4 @@
+name: Supermarket
+version: '${project.version}'
+main: sudark.supermarket.Supermarket
+api-version: '1.21'
